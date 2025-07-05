@@ -16,7 +16,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/seu-usuario/hermes-framework"
+    "url": "https://github.com/TheodoroL/hermesjs"
   },
   "dependencies": {
     "path-to-regexp": "^6.2.1"
