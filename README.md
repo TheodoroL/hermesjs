@@ -19,15 +19,12 @@ Supports routing, middleware, sub-routers, and decorators for `req` and `res`.
 ---
 
 ## 🚀 Installation
-
-This project only depends on `path-to-regexp`.
-
 ```bash
-npm install path-to-regexp
+npm install @theodorol/hermesjs
 ```
 
 ```js
-import {Hermes} from "hermesjs";
+import {Hermes} from "@theodorol/hermesjs";
 const app = new Hermes();
 
 app.get("/", (req, res) => {

@@ -1,5 +1,5 @@
 {
-  "name": "hermesjs",
+  "name": "@theodorol/hermesjs",
   "version": "1.0.0",
   "description": "⚡ A minimal Node.js HTTP framework inspired by Express.js",
   "main": "./src/index.js",
@@ -18,6 +18,7 @@
     "type": "git",
     "url": "https://github.com/TheodoroL/hermesjs"
   },
+  "homepage": "https://github.com/TheodoroL/hermesjs#readme",
   "dependencies": {
     "path-to-regexp": "^6.2.1"
   }
